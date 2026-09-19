@@ -28,7 +28,4 @@ AI Engineer building production LLM systems, agentic pipelines, and full-stack A
 **Languages, Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,fastapi,flask,express,opencv,pytorch,postgres,aws,docker,jenkins,nginx,git,github,figma" alt="tech stack icons" />
--profile-trophy.vercel.app/?username=shreyamhetre&theme=darkhub&no-frame=true&row=1&column=6)
 
----
-[![](https://visitcount.itsvg.in/api?id=shreyamhetre&icon=0&color=0)](https://visitcount.itsvg.in)
