@@ -28,19 +28,7 @@ AI Engineer building production LLM systems, agentic pipelines, and full-stack A
 **Languages, Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,fastapi,flask,express,opencv,pytorch,postgres,aws,docker,jenkins,nginx,git,github,figma" alt="tech stack icons" />
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shreyamhetre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamhetre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://nirzak-streak-stats.vercel.app/?user=shreyamhetre&theme=dark&hide_border=false)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=shreyamhetre&theme=react-dark&hide_border=false)
-
-### 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shreyamhetre&theme=darkhub&no-frame=true&row=1&column=6)
+-profile-trophy.vercel.app/?username=shreyamhetre&theme=darkhub&no-frame=true&row=1&column=6)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyamhetre&icon=0&color=0)](https://visitcount.itsvg.in)
