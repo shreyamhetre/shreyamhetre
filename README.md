@@ -9,6 +9,7 @@
 <a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&color=7F5AF0" alt="PromptDock on PyPI"/></a>
+<a href="https://shreyamhetre.github.io/my_portfolio"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
  
 </div>
 ---
