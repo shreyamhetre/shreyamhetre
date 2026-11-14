@@ -113,13 +113,6 @@ AI task manager with a custom MCP server, GitHub Issues sync and a calendar.
 </table>
 ---
  
-### ⚡ How I build AI systems
- 
-<div align="center">
-  <img src="./assets/ai-pipeline.svg" alt="My production RAG pipeline: sources, indexing, secure retrieval, grounding check, cited answers and MCP actions" width="100%" />
-</div>
----
- 
 <div align="center">
 ### 🤝 Let's talk
  
