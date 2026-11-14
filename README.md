@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,60:1a1640,100:2d2466&height=200&section=header&text=Shreya%20Mhetre&fontSize=54&fontColor=f5f5f7&fontAlignY=42&desc=AI%20Engineer%20%20%C2%B7%20%20Production%20LLM%20Systems%20%20%C2%B7%20%20Pune%2C%20India&descSize=16&descAlignY=66&descColor=b8b5d6" width="100%" alt="Shreya Mhetre, AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F2ECE1&height=200&section=header&text=Shreya%20Mhetre&fontSize=54&fontColor=3A4A5E&fontAlignY=42&desc=AI%20Engineer%20%20%C2%B7%20%20Production%20LLM%20Systems%20%20%C2%B7%20%20Pune%2C%20India&descSize=16&descAlignY=66&descColor=7C93B0" width="100%" alt="Shreya Mhetre, AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E5262A&height=4&section=header" width="100%" alt="" />
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=B8B5D6&center=true&vCenter=true&width=640&lines=Retrieval-augmented+systems+that+cite+their+sources;Multi-agent+workflows+built+with+LangGraph;Full-stack+AI+products%2C+shipped+on+AWS" alt="Retrieval-augmented systems, multi-agent workflows, full-stack AI products" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=7C93B0&center=true&vCenter=true&width=640&lines=Retrieval-augmented+systems+that+cite+their+sources;Multi-agent+workflows+built+with+LangGraph;Full-stack+AI+products%2C+shipped+on+AWS" alt="Retrieval-augmented systems, multi-agent workflows, full-stack AI products" />
 <br/><br/>
  
-<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-1a1640?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1640?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-1a1640?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&labelColor=1a1640&color=7f5af0" alt="PromptDock on PyPI"/></a>
+<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-7C93B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-7C93B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-7C93B0?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&labelColor=7C93B0&color=E5262A" alt="PromptDock on PyPI"/></a>
  
 </div>
 <br/>
@@ -76,7 +77,7 @@ Version control for prompts, built to treat them like code.
 ## Technical Expertise
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,postgres,aws,docker,githubactions,jenkins,nginx,git,pytorch,opencv&theme=dark&perline=17" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,postgres,aws,docker,githubactions,jenkins,nginx,git,pytorch,opencv&theme=light&perline=17" alt="Technology icons" />
 </p>
 | Domain | Technologies |
 |---|---|
@@ -91,8 +92,8 @@ Version control for prompts, built to treat them like code.
  
 I am open to conversations about AI engineering roles, RAG systems and agentic workflows.
  
-<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1a1640?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/shreyamhetre2002@gmail.com-1a1640?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-7C93B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/shreyamhetre2002@gmail.com-7C93B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d2466,40:1a1640,100:0d1117&height=6&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2ECE1,70:7C93B0,100:E5262A&height=6&section=footer" width="100%" />
  
