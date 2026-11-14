@@ -116,9 +116,14 @@ AI task manager with a custom MCP server, GitHub Issues sync and a calendar.
 ### 📊 GitHub activity
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyamhetre&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=7f5af0&icon_color=7f5af0&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamhetre&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f0c29&title_color=7f5af0&langs_count=6" alt="Top languages" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyamhetre&bg_color=0f0c29&color=c3b8ff&line=7f5af0&point=ffffff&area=true&area_color=7f5af0&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=shreyamhetre&theme=tokyonight&hide_border=true&background=0F0C29&ring=7F5AF0&fire=7F5AF0&currStreakLabel=7F5AF0" alt="GitHub streak" />
+<br/><br/>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
+</picture>
 </div>
 ---
  
@@ -131,3 +136,4 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/shreya-mhetre-768a79246) or a
 <img src="https://komarev.com/ghpvc/?username=shreyamhetre&color=7f5af0&style=flat-square&label=profile+views" alt="Profile views" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+ 
