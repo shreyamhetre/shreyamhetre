@@ -1,125 +1,98 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7f5af0&height=220&section=header&text=Shreya%20Mhetre&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Production%20LLM%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Shreya Mhetre" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,60:1a1640,100:2d2466&height=200&section=header&text=Shreya%20Mhetre&fontSize=54&fontColor=f5f5f7&fontAlignY=42&desc=AI%20Engineer%20%20%C2%B7%20%20Production%20LLM%20Systems%20%20%C2%B7%20%20Pune%2C%20India&descSize=16&descAlignY=66&descColor=b8b5d6" width="100%" alt="Shreya Mhetre, AI Engineer" />
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=7F5AF0&center=true&vCenter=true&width=620&lines=I+build+RAG+pipelines+that+cite+their+sources;Multi-agent+workflows+with+LangGraph+%26+CrewAI;Full-stack+AI+products+on+AWS;Shipping+to+enterprise+clients+for+2.5%2B+years" alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=B8B5D6&center=true&vCenter=true&width=640&lines=Retrieval-augmented+systems+that+cite+their+sources;Multi-agent+workflows+built+with+LangGraph;Full-stack+AI+products%2C+shipped+on+AWS" alt="Retrieval-augmented systems, multi-agent workflows, full-stack AI products" />
+<br/><br/>
+ 
+<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-1a1640?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1640?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-1a1640?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&labelColor=1a1640&color=7f5af0" alt="PromptDock on PyPI"/></a>
+ 
+</div>
 <br/>
-<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&color=7F5AF0" alt="PromptDock on PyPI"/></a>
+## About
  
-</div>
----
+I build production LLM systems: retrieval-augmented generation pipelines, multi-agent workflows and full-stack AI products on AWS. Over the past 2.5+ years I have shipped systems used by enterprise clients and partners, from Next.js and Node.js platforms to agentic AI tools.
  
-### 👩‍💻 About me
+My focus is making AI systems **reliable in production**: grounded answers with citations, access control enforced at retrieval time, observable pipelines and prompts that ship through evaluation gates, the same way code does.
  
-```python
-class ShreyaMhetre:
-    role       = "AI Engineer"
-    location   = "Pune, India 🇮🇳"
-    experience = "2.5+ years shipping to enterprise clients & partners"
-    builds     = ["RAG pipelines", "multi-agent workflows", "full-stack AI products"]
-    cloud      = "AWS"
-    currently  = "Making LLM systems reliable, grounded and observable in production"
-    ask_me     = ["RAG", "agentic workflows", "MCP", "prompt versioning & evals"]
-```
- 
----
- 
-### 🚀 Featured projects
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>Experience</b><br/>
+<sub>2.5+ years building and shipping AI and full-stack systems for enterprise clients</sub>
+</td>
+<td width="33%" valign="top">
+<b>Focus</b><br/>
+<sub>RAG, agentic workflows, MCP integrations, LLM evaluation and observability</sub>
+</td>
+<td width="33%" valign="top">
+<b>Open source</b><br/>
+<sub>Author of PromptDock, a prompt versioning tool published on PyPI</sub>
+</td>
+</tr>
+</table>
+<br/>
+## Featured Work
  
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🧠 [BrainBase](https://github.com/shreyamhetre/BrainBase)
-**A foundation for company-specific AI assistants.**
+### [BrainBase](https://github.com/shreyamhetre/BrainBase)
+<sub>COMPANY KNOWLEDGE ASSISTANT</sub>
  
-- 📚 Answers with **citations** from Slack, GitLab & documents
-- 🔐 **Access rules enforced inside the search query**
-- ✅ Verifies sources support an answer *before* writing it
-- 🛠️ Runs **user-confirmed actions** through MCP
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-7F5AF0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square"/>
-</p>
-</td>
-<td width="50%" valign="top">
-### 📦 [PromptDock](https://github.com/shreyamhetre/PromptDock)
-**Version your prompts like code.** Open source.
+A configurable foundation for building company-specific AI assistants.
  
-- 🔒 Immutable versions with `dev` / `preprod` / `prod` tags
-- 🧪 **Eval-gated promotion** + one-click rollback
-- 📜 Full audit log
-- 🧩 SDK · REST API · CLI · Dashboard · MCP server · Docker
-```bash
-pip install promptdock
-```
- 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-#### 🔬 [AI Research Assistant](https://github.com/shreyamhetre/Ai-research-Assistant)
-Agentic RAG assistant for research papers.
-<br/><sub>CrewAI · LangChain · pgvector</sub>
+- Answers with citations from Slack, GitLab and uploaded documents
+- Enforces access rules inside the search query
+- Verifies that sources support an answer before writing it
+- Executes user-confirmed actions through MCP
+<sub><code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Next.js</code> <code>MCP</code> <code>Langfuse</code></sub>
  
 </td>
 <td width="50%" valign="top">
-#### 🗓️ [SmartCue](https://github.com/shreyamhetre/SmartCue)
-AI task manager with a custom MCP server, GitHub Issues sync and a calendar.
-<br/><sub>MCP · GitHub API · Calendar</sub>
+### [PromptDock](https://github.com/shreyamhetre/PromptDock)
+<sub>OPEN-SOURCE DEVELOPER TOOL</sub>
+ 
+Version control for prompts, built to treat them like code.
+ 
+- Immutable versions with `dev`, `preprod` and `prod` tags
+- Eval-gated promotion and one-click rollback
+- Complete audit log of every change
+- Available as SDK, REST API, CLI, dashboard, MCP server and Docker image
+<sub><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code> <code>GitHub Actions</code></sub>
  
 </td>
 </tr>
 </table>
----
+**Also built**
  
-### 🛠️ Tech stack
+| Project | Description | Stack |
+|---|---|---|
+| [AI Research Assistant](https://github.com/shreyamhetre/Ai-research-Assistant) | Agentic RAG assistant for exploring research papers | CrewAI, LangChain, pgvector |
+| [SmartCue](https://github.com/shreyamhetre/SmartCue) | AI task management with a custom MCP server, GitHub Issues sync and calendar | MCP, GitHub API |
  
-<table>
-<tr>
-<td align="center" width="25%"><b>🤖 GenAI & LLMs</b></td>
-<td>LangChain · LangGraph · CrewAI · RAG · MCP · Prompt Engineering · OpenAI · Gemini · Ollama</td>
-</tr>
-<tr>
-<td align="center"><b>💻 Languages & Web</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,flask&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Search & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> &nbsp; pgvector · Neo4j · Semantic Search</td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud & DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,nginx,git&theme=dark" /><br/><sub>S3 · Lambda · Glue · SQS · CloudFront</sub></td>
-</tr>
-<tr>
-<td align="center"><b>👁️ Computer Vision</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" /> &nbsp; YOLOv8 · SAM · Grounding DINO · MediaPipe</td>
-</tr>
-</table>
----
+<br/>
+## Technical Expertise
  
-<div align="center">
-### 🤝 Let's talk
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,postgres,aws,docker,githubactions,jenkins,nginx,git,pytorch,opencv&theme=dark&perline=17" alt="Technology icons" />
+</p>
+| Domain | Technologies |
+|---|---|
+| **Generative AI** | LangChain, LangGraph, CrewAI, RAG, Model Context Protocol (MCP), Prompt Engineering, OpenAI API, Gemini API, Ollama |
+| **Search and Data** | PostgreSQL, pgvector, Neo4j, Semantic Search |
+| **Cloud and DevOps** | AWS (S3, Lambda, Glue, SQS, CloudFront), Docker, Jenkins, GitHub Actions, CI/CD |
+| **Computer Vision** | YOLOv8, Segment Anything (SAM), Grounding DINO, MediaPipe, OpenCV |
+| **Web** | Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Flask |
  
-Happy to chat about **AI engineering**, **RAG systems** and **agentic workflows**.<br/>
-Reach me on [LinkedIn](https://www.linkedin.com/in/shreya-mhetre-768a79246) or at **shreyamhetre2002@gmail.com**.
+<br/>
+## Contact
  
-<img src="https://komarev.com/ghpvc/?username=shreyamhetre&color=7f5af0&style=flat-square&label=profile+views" alt="Profile views" />
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+I am open to conversations about AI engineering roles, RAG systems and agentic workflows.
+ 
+<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1a1640?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/shreyamhetre2002@gmail.com-1a1640?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d2466,40:1a1640,100:0d1117&height=6&section=footer" width="100%" />
  
