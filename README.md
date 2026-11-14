@@ -113,17 +113,10 @@ AI task manager with a custom MCP server, GitHub Issues sync and a calendar.
 </table>
 ---
  
-### 📊 GitHub activity
+### ⚡ How I build AI systems
  
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=shreyamhetre&theme=tokyonight&hide_border=true&background=0F0C29&ring=7F5AF0&fire=7F5AF0&currStreakLabel=7F5AF0" alt="GitHub streak" />
-<br/><br/>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
-</picture>
+  <img src="./assets/ai-pipeline.svg" alt="My production RAG pipeline: sources, indexing, secure retrieval, grounding check, cited answers and MCP actions" width="100%" />
 </div>
 ---
  
