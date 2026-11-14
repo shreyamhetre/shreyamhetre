@@ -1,99 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F2ECE1&height=200&section=header&text=Shreya%20Mhetre&fontSize=54&fontColor=3A4A5E&fontAlignY=42&desc=AI%20Engineer%20%20%C2%B7%20%20Production%20LLM%20Systems%20%20%C2%B7%20%20Pune%2C%20India&descSize=16&descAlignY=66&descColor=7C93B0" width="100%" alt="Shreya Mhetre, AI Engineer" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E5262A&height=4&section=header" width="100%" alt="" />
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=7C93B0&center=true&vCenter=true&width=640&lines=Retrieval-augmented+systems+that+cite+their+sources;Multi-agent+workflows+built+with+LangGraph;Full-stack+AI+products%2C+shipped+on+AWS" alt="Retrieval-augmented systems, multi-agent workflows, full-stack AI products" />
-<br/><br/>
- 
-<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-7C93B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-7C93B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/shreyamhetre"><img src="https://img.shields.io/badge/X-7C93B0?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&labelColor=7C93B0&color=E5262A" alt="PromptDock on PyPI"/></a>
- 
-</div>
-<br/>
-## About
- 
-I build production LLM systems: retrieval-augmented generation pipelines, multi-agent workflows and full-stack AI products on AWS. Over the past 2.5+ years I have shipped systems used by enterprise clients and partners, from Next.js and Node.js platforms to agentic AI tools.
- 
-My focus is making AI systems **reliable in production**: grounded answers with citations, access control enforced at retrieval time, observable pipelines and prompts that ship through evaluation gates, the same way code does.
- 
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>Experience</b><br/>
-<sub>2.5+ years building and shipping AI and full-stack systems for enterprise clients</sub>
-</td>
-<td width="33%" valign="top">
-<b>Focus</b><br/>
-<sub>RAG, agentic workflows, MCP integrations, LLM evaluation and observability</sub>
-</td>
-<td width="33%" valign="top">
-<b>Open source</b><br/>
-<sub>Author of PromptDock, a prompt versioning tool published on PyPI</sub>
-</td>
-</tr>
-</table>
-<br/>
-## Featured Work
- 
-<table>
-<tr>
-<td width="50%" valign="top">
-### [BrainBase](https://github.com/shreyamhetre/BrainBase)
-<sub>COMPANY KNOWLEDGE ASSISTANT</sub>
- 
-A configurable foundation for building company-specific AI assistants.
- 
-- Answers with citations from Slack, GitLab and uploaded documents
-- Enforces access rules inside the search query
-- Verifies that sources support an answer before writing it
-- Executes user-confirmed actions through MCP
-<sub><code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Next.js</code> <code>MCP</code> <code>Langfuse</code></sub>
- 
-</td>
-<td width="50%" valign="top">
-### [PromptDock](https://github.com/shreyamhetre/PromptDock)
-<sub>OPEN-SOURCE DEVELOPER TOOL</sub>
- 
-Version control for prompts, built to treat them like code.
- 
-- Immutable versions with `dev`, `preprod` and `prod` tags
-- Eval-gated promotion and one-click rollback
-- Complete audit log of every change
-- Available as SDK, REST API, CLI, dashboard, MCP server and Docker image
-<sub><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code> <code>Docker</code> <code>GitHub Actions</code></sub>
- 
-</td>
-</tr>
-</table>
-**Also built**
- 
-| Project | Description | Stack |
-|---|---|---|
-| [AI Research Assistant](https://github.com/shreyamhetre/Ai-research-Assistant) | Agentic RAG assistant for exploring research papers | CrewAI, LangChain, pgvector |
-| [SmartCue](https://github.com/shreyamhetre/SmartCue) | AI task management with a custom MCP server, GitHub Issues sync and calendar | MCP, GitHub API |
- 
-<br/>
-## Technical Expertise
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,postgres,aws,docker,githubactions,jenkins,nginx,git,pytorch,opencv&theme=light&perline=17" alt="Technology icons" />
+<a href="https://shreyamhetre.github.io/my_portfolio/">
+  <img src="./assets/hero.svg" width="100%" alt="Shreya Mhetre. AI Engineer, Pune, India. Building LLM systems that hold up in production." />
+</a>
+
+<p>
+  <a href="https://shreyamhetre.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-1B2430?style=for-the-badge&logo=googlechrome&logoColor=F2ECE1" alt="Portfolio" /></a>
+  <a href="https://shreyamhetre.github.io/my_portfolio/resume.pdf"><img src="https://img.shields.io/badge/Resume-7C93B0?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/LinkedIn-7C93B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/Email-7C93B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://pypi.org/project/promptdock/"><img src="https://img.shields.io/pypi/v/promptdock?style=for-the-badge&logo=pypi&logoColor=white&label=promptdock&labelColor=7C93B0&color=E5262A" alt="PromptDock on PyPI" /></a>
 </p>
-| Domain | Technologies |
-|---|---|
-| **Generative AI** | LangChain, LangGraph, CrewAI, RAG, Model Context Protocol (MCP), Prompt Engineering, OpenAI API, Gemini API, Ollama |
-| **Search and Data** | PostgreSQL, pgvector, Neo4j, Semantic Search |
-| **Cloud and DevOps** | AWS (S3, Lambda, Glue, SQS, CloudFront), Docker, Jenkins, GitHub Actions, CI/CD |
-| **Computer Vision** | YOLOv8, Segment Anything (SAM), Grounding DINO, MediaPipe, OpenCV |
-| **Web** | Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Flask |
- 
-<br/>
-## Contact
- 
-I am open to conversations about AI engineering roles, RAG systems and agentic workflows.
- 
-<a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-7C93B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-<a href="mailto:shreyamhetre2002@gmail.com"><img src="https://img.shields.io/badge/shreyamhetre2002@gmail.com-7C93B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2ECE1,70:7C93B0,100:E5262A&height=6&section=footer" width="100%" />
- 
+
+<img src="./assets/about.svg" width="100%" alt="About: I build agentic RAG pipelines, multi-agent systems and the cloud-native platforms around them. 2.5+ years building, 30 markets served, 40K rows per ETL job, 4 AI products shipped." />
+
+<img src="./assets/experience.svg" width="100%" alt="Experience at Equations Work, Pune: AI Engineer, Software Engineer and Project Intern. Work on Agentic Yoda, a Prime Video affiliate marketing platform, Prophesizer and an AI-assisted image annotation tool." />
+
+<img src="./assets/projects.svg" width="100%" alt="Selected projects" />
+
+<a href="https://github.com/shreyamhetre/BrainBase"><img src="./assets/project-1.svg" width="100%" alt="BrainBase: enterprise knowledge AI assistant with citations, role-based access control, evidence verification and MCP actions." /></a>
+
+<a href="https://github.com/shreyamhetre/PromptDock"><img src="./assets/project-2.svg" width="100%" alt="PromptDock: open-source prompt versioning and LLM evaluation, published on PyPI and Docker." /></a>
+
+<a href="https://github.com/shreyamhetre/Ai-research-Assistant"><img src="./assets/project-3.svg" width="100%" alt="AI Research Assistant: agentic RAG for research papers with CrewAI and pgvector." /></a>
+
+<a href="https://github.com/shreyamhetre/SmartCue"><img src="./assets/project-4.svg" width="100%" alt="SmartCue: AI task management with a custom MCP server, GitHub Issues sync and a calendar." /></a>
+
+<img src="./assets/skills.svg" width="100%" alt="Skills: Python, JavaScript, SQL, LangChain, LangGraph, CrewAI, RAG, MCP, React, Next.js, Node.js, FastAPI, pgvector, Neo4j, YOLOv8, SAM, AWS, Docker. Education: B.E. Computer Engineering, Savitribai Phule Pune University." />
+
+<a href="mailto:shreyamhetre2002@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Contact: Have a question or an idea worth discussing? shreyamhetre2002@gmail.com" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/shreya-mhetre-768a79246"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1B2430?style=for-the-badge&logo=linkedin&logoColor=F2ECE1" alt="Connect on LinkedIn" /></a>
+  <a href="https://shreyamhetre.github.io/my_portfolio/"><img src="https://img.shields.io/badge/View_full_portfolio-E5262A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View full portfolio" /></a>
+</p>
